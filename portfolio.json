@@ -62,16 +62,31 @@
       ]
     },
     {
-      "company": "MATRIC (Mid-Atlantic Technology, Research, and Innovation Center)",
-      "position": "Software Engineer",
-      "url": "https://www.matricinnovates.com/",
-      "start_date": "2010",
-      "end_date": "2011",
+      "company": "MiO's Salon",
+      "position": "Social Media & Marketing Intern",
+      "url": "",
+      "start_date": "January 2022",
+      "end_date": "June 2022",
       "summary": "",
       "highlights": [
-        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
-        "Developed custom widgets for routing, wind data visualization, and simulations.",
-        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
+        "Managed social media accounts and created marketing campaigns and ideas for viral content.",
+        "Boosted Social Media presence by 40,000+ followers throughout various platforms.",
+        "Created dashboards using Excel and Tableau to create important marketing insights."
+      ]
+    },
+    {
+      "company": "Hawaiian Telcom",
+      "position": "Brand Ambassador",
+      "url": "",
+      "start_date": "June 2021",
+      "end_date": "August 2022",
+      "summary": "",
+      "highlights": [
+        "Interacted with consumers, scheduled events, and promoted products, driving brand loyalty and sales.",
+        "Boosted brand visibility through strategic event planning and targeted promotions, increasing engagement.", 
+        "Collaborated with cross-functional teams for seamless operations and events, ensuring optimal product exposure.",
+        "Managed event logistics and consumer interactions, maintaining brand integrity and building relationships."
+
       ]
     }
   ],
@@ -119,21 +134,20 @@
   ],
   "education": [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
+      "institution": "University of Hawaii at Manoa",
+      "location": "Honolulu, Hawaii, USA",
+      "url": "https://manoa.hawaii.edu/",
       "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Business Adminstration in Finance",
+        "Bachelor of Business Adminstration in Management Information Systems"
       ],
       "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
+        "Dean's List: Spring 2024, Fall 2025, Spring 2025",
+        "Delta Sigma Pi Business Fraternity"
       ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+      "gpa_cumulative": "3.56",
+      "gpa_major": "3.85",
+      "graduation_date": "2026"
     }
   ],
   "skills": [
@@ -153,22 +167,7 @@
       "proficiency_label": "Comfortable"
     }
   ],
-  "interests": [
-    {
-      "name": "Woodworking",
-      "summary": "",
-      "images": [
-        {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
-        {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
-        }
-      ]
-    }
-  ],
+  "interests": [],
   "languages": [],
   "references": []
 }
