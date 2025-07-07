@@ -23,29 +23,42 @@
   ],
   "work_experience": [
     {
-      "company": "The Ritz-Ca",
-      "position": "Software Engineer",
-      "url": "https://lasp.colorado.edu/",
-      "start_date": "2015",
-      "end_date": "2019",
+      "company": "Extern, TruBridge",
+      "position": "Data Analytics Externship",
+      "url": "",
+      "start_date": "May 2025",
+      "end_date": "Present",
       "summary": "",
       "highlights": [
-        "Created and maintained back-end API services using Flask.",
-        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
-        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
+        "Conducted exploratory data analysis on publicly available datasets, examining the effects of vaccination (or lack thereof) on public health through variables like case counts, infection rates, and vaccination status to uncover meaningful insights.",
+        "Leveraged AI tools such as ChatGPT and Claude to guide data discovery, generate research prompts, and support the creation of visualizations, dashboards, and reports on the effects of having a vaccinated population."
       ]
     },
     {
-      "company": "WVU GIS Technical Center",
-      "position": "Software Engineer",
-      "url": "https://wvgis.wvu.edu/",
-      "start_date": "2012",
-      "end_date": "2015",
+      "company": "The Ritz-Carlton Residences, Waikiki Beach",
+      "position": "Turndown Attendant",
+      "url": "",
+      "start_date": "May 2024",
+      "end_date": "Present",
       "summary": "",
       "highlights": [
-        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
-        "Wrote and published geoprocessing services using Python and ArcPy",
-        "Created backend user authentication systems with PHP and MySQL"
+        "Learning Coach for the Housekeeping Department. Responsible for training and equipping housekeepers with the skills and knowledge to perform world-class hospitality.",
+        "Established personal relationships with guests, contributing to positive guest feedback and loyalty.",
+	      "Solved guest problems effectively and autonomously.",
+        "Implemented solutions to improve room aesthetics and guest satisfaction."
+      ]
+    },
+    {
+      "company": "TikTok Shop",
+      "position": "E-Commerce Store Operator",
+      "url": "",
+      "start_date": "August 2024",
+      "end_date": "December 2024",
+      "summary": "",
+      "highlights": [
+        "Utilized social media and digital marketing tactics to build brand awareness, attract new customers, and drive traffic to my stores.", 
+        "Applied algorithm-driven tactics to refine ad performance, enhancing ad visibility to high-intent audiences and driving a significant increase in conversion rates.",
+        "Achieved over 200 sales within three months of operation, generating more than $2,000 in revenue." 
       ]
     },
     {
