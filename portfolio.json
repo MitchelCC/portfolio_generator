@@ -12,12 +12,12 @@
   "social_links": [
     {
       "label": "LinkedIn",
-      "url": "https://https://www.linkedin.com/in/mitchel-ac-camacho/",
+      "url": "https://www.linkedin.com/in/mitchel-ac-camacho/",
       "svg_path": "img/linkedin.svg"
     },
     {
        "label": "GitHub",
-      "url": "https://https://github.com/MitchelCC",
+      "url": "https://github.com/MitchelCC",
       "svg_path": "img/github.svg"
     }
   ],
