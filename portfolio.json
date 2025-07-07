@@ -139,6 +139,19 @@
       "gpa_cumulative": "3.56",
       "gpa_major": "3.85",
       "graduation_date": "2026"
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "location": "Honolulu, Hawaii, USA",
+      "url": "https://www.kapiolani.hawaii.edu/",
+      "degrees": [
+        "Associates of Arts in Liberal Arts"
+      ],
+      "honors": [
+        "Phi Theta Kappa Honor Society, Alpha Kappa Psi Chapter"
+      ],
+      "gpa_cumulative": "3.67",
+      "graduation_date": "May 2025"
     }
   ],
   "skills": [
