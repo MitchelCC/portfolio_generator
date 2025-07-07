@@ -1,13 +1,13 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Mitchel Camacho",
+  "label": "Student at the University of Hawaii at Manoa passionate about all things tech",
+  "image_path": "img/prof-pic.jpeg",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "MitchelACamacho@gmail.com",
+    "phone": "",
+    "location": "Honolulu, Hawaii"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Hi! My name is Mitchel Camacho, and I am a student at the University of Hawaii at Manoa pursuing a degree in Finance and Management Information Systems.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -17,12 +17,12 @@
     },
     {
       "label": "First Social",
-      "url": "https://sample.com",
+      "url": "https://https://www.linkedin.com/in/mitchel-ac-camacho/",
       "svg_path": "img/linkedin.svg"
     },
     {
       "label": "Second Social",
-      "url": "https://sample.com",
+      "url": "https://https://github.com/MitchelCC",
       "svg_path": "img/github.svg"
     }
   ],

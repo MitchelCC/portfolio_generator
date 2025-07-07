@@ -92,22 +92,22 @@
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "title": "Fantasy Performance Analyzer For NBA Players",
+      "summary": "A Python application that analyzes NBA player performance data to help make informed decisions for fantasy draft picks.",
+      "url": "https://github.com/MitchelCC/Personal-Projects/tree/ff08256814e189797975aa524ea724058b94ee55/NBA%20Fantasy",
+      "highlights": [""],
       "images": [
         {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
+          "img_path": "img/Console.png",
+          "caption": "Console Interface"
         },
         {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
+          "img_path": "img/Top20.png",
+          "caption": "Top 20 Players by Position"
         },
         {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
+          "img_path": "img/Advanced_M.png",
+          "caption": "Advanced Metrics with Visualizations"
         }
       ]
     }
@@ -134,7 +134,7 @@
       ],
       "honors": [
         "Dean's List: Spring 2024, Fall 2025, Spring 2025",
-        "Delta Sigma Pi Business Fraternity"
+        "Delta Sigma Pi Business Fraternity, Rho Chi Chapter"
       ],
       "gpa_cumulative": "3.56",
       "gpa_major": "3.85",
@@ -154,23 +154,7 @@
       "graduation_date": "May 2025"
     }
   ],
-  "skills": [
-    {
-      "name": "Python, Flask, Django",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "System Administration, Linux",
-      "proficiency": 90,
-      "proficiency_label": "Advanced"
-    },
-    {
-      "name": "JavaScript, HTML, CSS",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
-    }
-  ],
+  "skills": [],
   "interests": [],
   "languages": [],
   "references": []
