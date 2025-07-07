@@ -25,7 +25,7 @@
     {
       "title": "Fantasy Performance Analyzer For NBA Players",
       "summary": "A Python application that analyzes NBA player performance data to help make informed decisions for fantasy draft picks.",
-      "url": "https://github.com/MitchelCC/Personal-Projects/tree/17741b6dc7aca8ba7586d5d701a5c277f8d9ba1f/NBA%20Fantasy",
+      "url": "https://github.com/MitchelCC/Personal-Projects/tree/72fadd0f17165345caf28e9386d7c911bdf41b21/NBA%20Fantasy",
       "highlights": ["Python, Pandas, MatPlotlib, Seaborn, Data Visualization, Data Analysis, & Data Cleaning"],
       "images": [
         {
