@@ -1,13 +1,13 @@
 {
-  "name": "Corey Schafer",
-  "label": "Software Engineer",
+  "name": "Mitchel Camacho",
+  "label": "Student at the University of Hawaii at Manoa passionate about all things tech",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
-    "email": "CoreyMSchafer@gmail.com",
+    "email": "MitchelACamacho@gmail.com",
     "phone": "",
-    "location": "Charleston, WV"
+    "location": "Honolulu, Hawaii"
   },
-  "summary": "Programming educator on YouTube. Simplifying complex concepts into manageable steps to help learners digest material at their own pace.",
+  "summary": "Hi! My name is Mitchel Camacho, and I am a student at the University of Hawaii at Manoa pursuing a degree in Finance and Management Information Systems.",
   "url": "https://coreyms.com",
   "social_links": [
     {
