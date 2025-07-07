@@ -21,6 +21,28 @@
       "svg_path": "img/github.svg"
     }
   ],
+  "projects": [
+    {
+      "title": "Fantasy Performance Analyzer For NBA Players",
+      "summary": "A Python application that analyzes NBA player performance data to help make informed decisions for fantasy draft picks.",
+      "url": "https://github.com/MitchelCC/Personal-Projects/tree/ff08256814e189797975aa524ea724058b94ee55/NBA%20Fantasy",
+      "highlights": ["Python, Pandas, MatPlotlib, Seaborn, Data Visualization, Data Analysis, & Data Cleaning"],
+      "images": [
+        {
+          "img_path": "img/Console.png",
+          "caption": "Console Interface"
+        },
+        {
+          "img_path": "img/Top20.png",
+          "caption": "Top 20 Players by Position"
+        },
+        {
+          "img_path": "img/Advanced_M.png",
+          "caption": "Advanced Metrics with Visualizations"
+        }
+      ]
+    }
+  ],
   "work_experience": [
     {
       "company": "Extern, TruBridge",
@@ -90,28 +112,7 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "title": "Fantasy Performance Analyzer For NBA Players",
-      "summary": "A Python application that analyzes NBA player performance data to help make informed decisions for fantasy draft picks.",
-      "url": "https://github.com/MitchelCC/Personal-Projects/tree/ff08256814e189797975aa524ea724058b94ee55/NBA%20Fantasy",
-      "highlights": [""],
-      "images": [
-        {
-          "img_path": "img/Console.png",
-          "caption": "Console Interface"
-        },
-        {
-          "img_path": "img/Top20.png",
-          "caption": "Top 20 Players by Position"
-        },
-        {
-          "img_path": "img/Advanced_M.png",
-          "caption": "Advanced Metrics with Visualizations"
-        }
-      ]
-    }
-  ],
+  
   "volunteer_experience": [
     {
       "organization": "Co-Cathedral of St. Theresa",
